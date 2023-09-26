@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/03/31 11:27:24.000.594,=C:\Users\claud\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2022/03/31 11:27:24.000.094,=C:\Users\claud\OneDrive\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2022/03/31 11:27:50.000.768,C:\Users\claud\OneDrive\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\claud\OneDrive\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2022/04/20 17:30:08.000.323,=C:\Users\claud\OneDrive\Documents\Embarcadero\Studio\21.0\Imports\WMPLib_OCX.cpp</Transaction>
+    <Transaction>2022/04/20 17:30:08.000.159,=C:\Users\claud\OneDrive\Documents\Embarcadero\Studio\21.0\Imports\WMPLib_TLB.cpp</Transaction>
+    <Transaction>2022/04/20 17:31:15.000.247,=C:\Users\claud\OneDrive\Documents\Embarcadero\Studio\21.0\Imports\XcpControlLib_OCX.cpp</Transaction>
+    <Transaction>2022/04/20 17:31:15.000.019,=C:\Users\claud\OneDrive\Documents\Embarcadero\Studio\21.0\Imports\XcpControlLib_TLB.cpp</Transaction>
+    <Transaction>2022/04/20 18:14:03.000.961,=C:\Users\claud\OneDrive\Documents\Embarcadero\Studio\21.0\Imports\MSVidCtlLib_OCX.cpp</Transaction>
+    <Transaction>2022/04/20 18:14:03.000.713,=C:\Users\claud\OneDrive\Documents\Embarcadero\Studio\21.0\Imports\MSVidCtlLib_TLB.cpp</Transaction>
+    <Transaction>2022/04/20 18:53:48.000.822,=C:\Users\claud\OneDrive\Documents\Embarcadero\Studio\21.0\Imports\MediaPlayer_TLB.cpp</Transaction>
+    <Transaction>2022/04/20 20:03:05.000.307,=C:\Users\claud\OneDrive\Documents\Embarcadero\Studio\21.0\Imports\WMPLib_OCX.cpp</Transaction>
+    <Transaction>2022/04/20 20:03:05.000.155,=C:\Users\claud\OneDrive\Documents\Embarcadero\Studio\21.0\Imports\WMPLib_TLB.cpp</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="..\..\Studio"/>
+    <File Path="..\21.0"/>
+    <File Path="..\21.0\Imports"/>
+    <File Path="..\21.0\Imports\WMPLib_TLB.cpp"/>
+    <File Path="..\21.0\Imports\WMPLib_TLB.cpp"/>
+    <File Path="..\21.0\Imports\WMPLib_TLB.h"/>
+    <File Path="..\21.0\Imports\WMPLib_OCX.cpp"/>
+    <File Path="..\21.0\Imports\WMPLib_OCX.cpp"/>
+    <File Path="..\21.0\Imports\WMPLib_OCX.h"/>
+    <File Path="Project1.cpp"/>
+    <File Path="Project1PCH1.h"/>
+    <File Path="Unit1.cpp"/>
+    <File Path="Unit1.cpp"/>
+    <File Path="Unit1.dfm"/>
+    <File Path="Unit1.h"/>
+  </ProjectSortOrder>
+</BorlandProject>

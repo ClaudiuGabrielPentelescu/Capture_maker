@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/04/20 19:26:54.000.035,=rtl.bpi</Transaction>
+    <Transaction>2022/04/20 19:26:54.000.047,=C:\Users\claud\OneDrive\Documents\Embarcadero\Studio\Projects\windowsmediaplayer\windowsmediaplayerPCH1.h</Transaction>
+    <Transaction>2022/04/20 19:26:55.000.458,=vcl.bpi</Transaction>
+    <Transaction>2022/04/20 19:26:55.000.450,=C:\Users\claud\OneDrive\Documents\Embarcadero\Studio\21.0\Imports\WMPLib_TLB.cpp</Transaction>
+    <Transaction>2022/04/20 19:27:07.000.194,=C:\Users\claud\OneDrive\Documents\Embarcadero\Studio\21.0\Imports\WMPLib_OCX.cpp</Transaction>
+    <Transaction>2022/04/20 19:29:02.000.859,=C:\Users\claud\OneDrive\Documents\Embarcadero\Studio\Projects\windowsmediaplayer\Unit2.cpp</Transaction>
+  </Transactions>
+</BorlandProject>
